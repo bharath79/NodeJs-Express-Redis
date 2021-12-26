@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-express-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharath79/NodeJs-Express-Redis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharath79/NodeJs-Express-Redis/issues"
+  },
+  "homepage": "https://github.com/bharath79/NodeJs-Express-Redis#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "redis": "^3.1.2"
+  }
+}
